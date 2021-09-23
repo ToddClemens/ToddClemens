@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ToddClemens
+- 👀 I’m interested in teaching myself coding to eventually make a career change!
+- 🌱 I’m currently learning full stack web development
+- 💞️ I’m looking to collaborate on anything to help me learn the necessary skills to make a career change
+- 📫 How to reach me todd.clemens@icloud.com
