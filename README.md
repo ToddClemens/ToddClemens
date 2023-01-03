@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @ToddClemens
-- 👀 I’m interested in teaching myself coding as a hobby!
-- 🌱 I’m currently learning iOS Development. Swift and Swift UI
-- 💞️ I’m looking to collaborate on anything to help me learn the necessary skills.
+- 👀 I’m interested in Python
 - 📫 How to reach me todd.clemens@icloud.com
