@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ToddClemens
-- 👀 I’m interested in Python
+- 👀 I’m interested in iOS Development
 - 📫 How to reach me todd.clemens@icloud.com
